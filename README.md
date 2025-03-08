@@ -1,4 +1,4 @@
-# Project Name
+# Restaurant-Website (Name:Lunuu)
 
 ## Description
 This website is for a restuarant location at Adelane Australia. The ownder wanted a simple but different website to showcase their website with the features mentioned in the features section.
