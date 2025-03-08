@@ -12,6 +12,7 @@ This website is for a restaurant located in Adelaide, Australia. The owner wante
 - Menu Display Page
 - Gallery Display Page
 - About us / Contact Pages
+- Responsive Design
 
 ## Technologies Used
 - HTML
